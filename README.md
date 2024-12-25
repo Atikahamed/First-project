@@ -1,1 +1,1 @@
-# First-project
+# School Management Sytem-project
